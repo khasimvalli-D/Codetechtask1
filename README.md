@@ -42,7 +42,7 @@ Change the blinking interval or pattern
 Add a button or sensor to control the LED
 Experiment with other Arduino functions and libraries
 This project is a great starting point for beginners, and it's a lot of fun! If you have any questions or need help with the project, feel free to ask.README
-NAME:-SHAIK SALMATHAJU COMPANY :-CODETECH IT SOLUTIONS DOMAIN:-EMBEDDED SYSYEMS DURATIONS:-JUNE TO AUGUST 2024 MENTOR:-SRAVANI
+NAME:-D.KHASIM VALLI COMPANY :-CODETECH IT SOLUTIONS DOMAIN:-EMBEDDED SYSYEMS DURATIONS:-JUNE TO AUGUST 2024 MENTOR:-SRAVANI
 
 OVERVIEW OF THE PROJECT
 
